@@ -1,1 +1,1 @@
-:- Type error while trying to post data from postman
+FIxed
